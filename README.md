@@ -8,6 +8,7 @@ Spesifikasi:
 2. Buat landing Page (button yg ngarah ke halaman daftar residen)
 3. Tampilin gambar
 4. Tambahin 1 metode yang masih relevan untuk setiap kelas
+
 Kalau mau bikin dari awal sendiri:
 1. Landing Page juga
 2. Minimal menggunakan 4 kelas
