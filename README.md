@@ -1,5 +1,5 @@
 # LP9DPBO2023C2
-### Saya Muhammad Alam Basalamah NIM 2101677 mengerjakan TP3 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+### Saya Muhammad Alam Basalamah NIM 2101677 mengerjakan LP9 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Deskripsi Tugas
 Latihan Praktikum tidak menggunakan Database, tapi harus mengirim bukti screenshot menjalankan contoh kode yang dikirim.
