@@ -19,5 +19,5 @@ Kalau mau bikin dari awal sendiri:
 ## Video Preview Program
 https://github.com/basalamahalam/LP9DPBO2023C2/assets/101177095/8ee4ce5a-3c45-4328-93f3-47b6d576a0e5
 
-## Coba CRUD Python pada database
+## Coba CRUD Python pada Database
 ![Screenshot (1116)](https://github.com/basalamahalam/LP9DPBO2023C2/assets/101177095/58769ddf-d513-4ffa-8637-5749f684fe99)
